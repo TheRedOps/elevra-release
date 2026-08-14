@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
   "notes": "Elevra 1.1.0.",
-  "installer_url": "https://github.com/TheRedOps/elevra-release/releases/latest/download/ElevraSetup.exe",
-  "sha256": "d3472fac6731e40072ba64cee919848d03e81d42f0f1feabe109e91a3a265a7d",
+  "installer_url": "",
+  "sha256": "",
   "published_at": "2026-08-14"
 }
