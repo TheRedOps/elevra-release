@@ -1,4 +1,0 @@
-# Release artifacts live under /releases on GitHub; local copies are throwaway.
-*.exe
-*.exe.sha256
-.DS_Store
